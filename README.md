@@ -20,6 +20,10 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
+Developed by: ADITAAYAN M
+
+Register number: 212223040006
+
 ## C program that receives a message from message queue and display them
 
 ### writer.c
